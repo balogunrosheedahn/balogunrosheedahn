@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balogunrosheedahn
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning html css and js
+- 👀 I’m interested in mobile application development
+- 🌱 I’m currently learning Kotlin and Dart
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me rosheedahbalo@gmail.com
 
