@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balogunrosheedahn
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning Kotlin and Dart
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in Mobile Application Development
+- 🌱 Experienced using Kotlin, Dart and Flutter  
+- 💞️ I’m looking to collaborate on projects, and Mobile dev jobs/Internships
 - 📫 How to reach me rosheedahbalo@gmail.com
 
 <!---
